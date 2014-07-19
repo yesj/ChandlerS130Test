@@ -1,0 +1,68 @@
+Dependencies for Project 's130_demo', Target 's130_demo_example': (DO NOT MODIFY !)
+F (.\src\main.c)(0x53C95818)(-c --cpu Cortex-M0 -D__MICROLIB --li -g -O0 --apcs=interwork -I..\include -I.\inc -I..\..\framework\builds\build\public\include-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Device\Nordic\nRF51422\Include-DNRF51 -DDEBUG_NRF -DPCA10001 -o .\build\main.o --omf_browse .\build\main.crf --depend .\build\main.d)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (C:\Keil\ARM\ARMCC\include\string.h)(0x51C7B744)
+I (C:\Keil\ARM\ARMCC\include\stdarg.h)(0x51C7B744)
+I (C:\Keil\ARM\ARMCC\include\stdlib.h)(0x51C7B744)
+I (C:\Keil\ARM\ARMCC\include\stdio.h)(0x51C7B744)
+I (C:\Users\chandler.ALATECHTW\Desktop\Example\include\nrf_soc.h)(0x53B0C9DE)
+I (C:\Keil\ARM\ARMCC\include\stdbool.h)(0x51C7B744)
+I (C:\Users\chandler.ALATECHTW\Desktop\Example\include\nrf_svc.h)(0x53B0C9DE)
+I (C:\Users\chandler.ALATECHTW\Desktop\Example\include\nrf51.h)(0x52B2542A)
+I (C:\Keil\ARM\CMSIS\Include\core_cm0.h)(0x51C7B54A)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x51C7B54A)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x51C7B54A)
+I (C:\Users\chandler.ALATECHTW\Desktop\Example\s130_demo_app\inc\system_nrf51.h)(0x53B0C9DE)
+I (C:\Users\chandler.ALATECHTW\Desktop\Example\include\nrf51_bitfields.h)(0x53B246B2)
+I (C:\Users\chandler.ALATECHTW\Desktop\Example\include\nrf_error_soc.h)(0x53B0C9DE)
+I (C:\Users\chandler.ALATECHTW\Desktop\Example\include\nrf_error.h)(0x53B0C9DE)
+I (C:\Users\chandler.ALATECHTW\Desktop\Example\include\nrf_sdm.h)(0x53B0C9DE)
+I (C:\Users\chandler.ALATECHTW\Desktop\Example\include\nrf_error_sdm.h)(0x53B0C9DE)
+I (C:\Users\chandler.ALATECHTW\Desktop\Example\include\ble.h)(0x53B0C9DE)
+I (C:\Users\chandler.ALATECHTW\Desktop\Example\include\ble_ranges.h)(0x53B0C9DE)
+I (C:\Users\chandler.ALATECHTW\Desktop\Example\include\ble_types.h)(0x53B0C9E0)
+I (C:\Users\chandler.ALATECHTW\Desktop\Example\include\ble_gap.h)(0x53B0C9DE)
+I (C:\Users\chandler.ALATECHTW\Desktop\Example\include\ble_l2cap.h)(0x53B0C9DE)
+I (C:\Users\chandler.ALATECHTW\Desktop\Example\include\ble_err.h)(0x53B0C9DE)
+I (C:\Users\chandler.ALATECHTW\Desktop\Example\include\ble_gatt.h)(0x53B0C9DE)
+I (C:\Users\chandler.ALATECHTW\Desktop\Example\include\ble_gattc.h)(0x53B0C9DE)
+I (C:\Users\chandler.ALATECHTW\Desktop\Example\include\ble_gatts.h)(0x53B0C9DE)
+I (C:\Users\chandler.ALATECHTW\Desktop\Example\include\ble_hci.h)(0x53B0C9DE)
+I (C:\Users\chandler.ALATECHTW\Desktop\Example\s130_demo_app\inc\app_assert.h)(0x53B0C9DE)
+I (C:\Users\chandler.ALATECHTW\Desktop\Example\s130_demo_app\inc\board_config.h)(0x53B0C9DE)
+I (C:\Users\chandler.ALATECHTW\Desktop\Example\s130_demo_app\inc\uart.h)(0x53B0C9DE)
+I (C:\Users\chandler.ALATECHTW\Desktop\Example\s130_demo_app\inc\rtc1.h)(0x53B0C9DE)
+F (.\src\uart.c)(0x53C95300)(-c --cpu Cortex-M0 -D__MICROLIB --li -g -O0 --apcs=interwork -I..\include -I.\inc -I..\..\framework\builds\build\public\include-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Device\Nordic\nRF51422\Include-DNRF51 -DDEBUG_NRF -DPCA10001 -o .\build\uart.o --omf_browse .\build\uart.crf --depend .\build\uart.d)
+I (C:\Users\chandler.ALATECHTW\Desktop\Example\s130_demo_app\inc\uart.h)(0x53B0C9DE)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (C:\Keil\ARM\ARMCC\include\stdbool.h)(0x51C7B744)
+I (C:\Users\chandler.ALATECHTW\Desktop\Example\include\nRF51.h)(0x52B2542A)
+I (C:\Keil\ARM\CMSIS\Include\core_cm0.h)(0x51C7B54A)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x51C7B54A)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x51C7B54A)
+I (C:\Users\chandler.ALATECHTW\Desktop\Example\s130_demo_app\inc\system_nrf51.h)(0x53B0C9DE)
+I (C:\Users\chandler.ALATECHTW\Desktop\Example\include\nRF51_bitfields.h)(0x53B246B2)
+I (C:\Users\chandler.ALATECHTW\Desktop\Example\s130_demo_app\inc\board_config.h)(0x53B0C9DE)
+F (.\src\rtc1.c)(0x53B0C9DE)(-c --cpu Cortex-M0 -D__MICROLIB --li -g -O0 --apcs=interwork -I..\include -I.\inc -I..\..\framework\builds\build\public\include-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Device\Nordic\nRF51422\Include-DNRF51 -DDEBUG_NRF -DPCA10001 -o .\build\rtc1.o --omf_browse .\build\rtc1.crf --depend .\build\rtc1.d)
+I (C:\Users\chandler.ALATECHTW\Desktop\Example\s130_demo_app\inc\rtc1.h)(0x53B0C9DE)
+I (C:\Keil\ARM\ARMCC\include\stdbool.h)(0x51C7B744)
+I (C:\Users\chandler.ALATECHTW\Desktop\Example\include\nrf51.h)(0x52B2542A)
+I (C:\Keil\ARM\CMSIS\Include\core_cm0.h)(0x51C7B54A)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x51C7B54A)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x51C7B54A)
+I (C:\Users\chandler.ALATECHTW\Desktop\Example\s130_demo_app\inc\system_nrf51.h)(0x53B0C9DE)
+I (C:\Users\chandler.ALATECHTW\Desktop\Example\include\nrf51_bitfields.h)(0x53B246B2)
+F (.\src\system_nrf51.c)(0x53B0C9DE)(-c --cpu Cortex-M0 -D__MICROLIB --li -g -O0 --apcs=interwork -I..\include -I.\inc -I..\..\framework\builds\build\public\include-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Device\Nordic\nRF51422\Include-DNRF51 -DDEBUG_NRF -DPCA10001 -o .\build\system_nrf51.o --omf_browse .\build\system_nrf51.crf --depend .\build\system_nrf51.d)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (C:\Keil\ARM\ARMCC\include\stdbool.h)(0x51C7B744)
+I (C:\Users\chandler.ALATECHTW\Desktop\Example\include\nrf.h)(0x53B246B2)
+I (C:\Users\chandler.ALATECHTW\Desktop\Example\include\nrf51.h)(0x52B2542A)
+I (C:\Keil\ARM\CMSIS\Include\core_cm0.h)(0x51C7B54A)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x51C7B54A)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x51C7B54A)
+I (C:\Users\chandler.ALATECHTW\Desktop\Example\s130_demo_app\inc\system_nrf51.h)(0x53B0C9DE)
+I (C:\Users\chandler.ALATECHTW\Desktop\Example\include\nrf51_bitfields.h)(0x53B246B2)
+I (C:\Users\chandler.ALATECHTW\Desktop\Example\include\nrf51_deprecated.h)(0x53B246B2)
+I (C:\Users\chandler.ALATECHTW\Desktop\Example\include\compiler_abstraction.h)(0x53B246B2)
+F (.\src\startup_nrf51.s)(0x53B0C9DE)(--cpu Cortex-M0 --li -g --apcs=interwork --pd "__MICROLIB SETA 1"-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Device\Nordic\nRF51422\Include--list .\build\startup_nrf51.lst --xref -o .\build\startup_nrf51.o --depend .\build\startup_nrf51.d)

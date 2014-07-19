@@ -1,0 +1,12 @@
+.\build\uart.o: src\uart.c
+.\build\uart.o: .\inc\uart.h
+.\build\uart.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\build\uart.o: C:\Keil\ARM\ARMCC\bin\..\include\stdbool.h
+.\build\uart.o: ..\include\nRF51.h
+.\build\uart.o: C:\Keil\ARM\CMSIS\Include\core_cm0.h
+.\build\uart.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\build\uart.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\build\uart.o: .\inc\system_nrf51.h
+.\build\uart.o: ..\include\nRF51_bitfields.h
+.\build\uart.o: C:\Keil\ARM\CMSIS\Include\core_cm0.h
+.\build\uart.o: .\inc\board_config.h

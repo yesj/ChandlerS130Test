@@ -1,0 +1,13 @@
+.\build\system_nrf51.o: src\system_nrf51.c
+.\build\system_nrf51.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\build\system_nrf51.o: C:\Keil\ARM\ARMCC\bin\..\include\stdbool.h
+.\build\system_nrf51.o: ..\include\nrf.h
+.\build\system_nrf51.o: ..\include\nrf51.h
+.\build\system_nrf51.o: C:\Keil\ARM\CMSIS\Include\core_cm0.h
+.\build\system_nrf51.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\build\system_nrf51.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\build\system_nrf51.o: .\inc\system_nrf51.h
+.\build\system_nrf51.o: ..\include\nrf51_bitfields.h
+.\build\system_nrf51.o: C:\Keil\ARM\CMSIS\Include\core_cm0.h
+.\build\system_nrf51.o: ..\include\nrf51_deprecated.h
+.\build\system_nrf51.o: ..\include\compiler_abstraction.h

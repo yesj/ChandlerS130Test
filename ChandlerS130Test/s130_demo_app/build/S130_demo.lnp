@@ -1,0 +1,10 @@
+--cpu Cortex-M0
+".\build\main.o"
+".\build\uart.o"
+".\build\rtc1.o"
+".\build\system_nrf51.o"
+".\build\startup_nrf51.o"
+--library_type=microlib --strict --scatter ".\build\S130_demo.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\build\S130_demo.map" -o .\build\S130_demo.axf
